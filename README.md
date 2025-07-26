@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Eslam Amin</h1>
-<h3 align="center">Multi-Cloud Consultant | DevOps Specialist | VMware Architect</h3>
+<h3 align="center">Multi-Cloud Senior Consultant | Automation | VMware Architect</h3>
 
 <p align="center">
   <a href="mailto:eslamabdelnaser9@gmail.com">📧 Email</a> •
@@ -15,13 +15,13 @@
 
 ## 🔧 Core Skills
 
-- ☁️ **Cloud:** AWS | GCP | OCI | Hybrid Architectures  
-- 🛠 **SDDC:** vSphere | VCF | NSX-T | AVI | VCD | TCA  
-- 📦 **Kubernetes:** TKG | Helm | Docker | Telco CNF/VNF  
-- 💾 **Storage & DR:** Veeam | HCX | RackWare | Unity | VxRail  
+- ☁️ **Cloud:** AWS | GCP | OCI | Hybrid Architectures
+- 📦 **Kubernetes:** TKG | Helm | Docker | Telco CNF/VNF
 - 📄 **IaC & Automation:** Terraform | YAML | JSON | PowerCLI | GitOps  
 - 📊 **Monitoring:** Aria Suite | Prometheus | Grafana  
 - 🔒 **Security & Compliance:** Zero Trust | DR Strategy | ETSI Standards  
+- 🛠 **SDDC:** vSphere | VCF | NSX-T | AVI | VCD | TCA   
+- 💾 **Storage & DR:** Veeam | HCX | RackWare | Unity | VxRail  
 
 ---
 
@@ -38,7 +38,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0100085&show_icons=true&theme=github_dark" />
+  <img src="[https://github-readme-stats.vercel.app/api?username=0100085&show_icons=true&theme=github_dark](https://github.com/EslamAmin)" />
 </p>
 
 ---
