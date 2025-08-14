@@ -1,27 +1,31 @@
-## Hi there 👋
-
-<h1 align="center">Hi 👋, I'm Eslam Amin</h1>
-<h3 align="center">Multi-Cloud Senior Consultant | Automation | VMware Architect</h3>
+<h1 align="center">Hi there 👋</h1>
+<h2 align="center">Hi 👋, I'm Eslam Amin</h2>
+<p align="center">
+  Multi-Cloud Senior Consultant | Automation | VMware Architect
+</p>
 
 <p align="center">
-  <a href="mailto:eslamabdelnaser9@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/eslam-amin-7a0079bb/">💼 LinkedIn</a> •
-  <a href="https://cloudswifttech.wordpress.com">📝 Blog</a> •
-  <a href="https://medium.com/@EslamAmin93">✍️ Medium</a> •
-  <a href="https://www.credly.com/users/eslam-amin.6f847d18">📜 Certifications</a>
+  <!-- Profile views -->
+  <img src="https://komarev.com/ghpvc/?username=EslamAmin&style=flat-square" alt="profile views" />
+  <!-- Social badges -->
+  <a href="mailto:eslamdaedars9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/eslam-amin-7a0079bb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="https://cloudswifttech.wordpress.com/"><img src="https://img.shields.io/badge/Blog-21759B?logo=wordpress&logoColor=white" /></a>
+  <a href="https://medium.com/@EslamAmin"><img src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white" /></a>
+  <a href="https://www.credly.com/users/eslam-amin.6f847f18"><img src="https://img.shields.io/badge/Certifications-FFA500?logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🔧 Core Skills
+## 🛠 Core Skills
 
-- ☁️ **Cloud:** AWS | GCP | OCI | Hybrid Architectures
-- 📦 **Kubernetes:** TKG | Helm | Docker | Telco CNF/VNF
-- 📄 **IaC & Automation:** Terraform | YAML | JSON | PowerCLI | GitOps  
-- 📊 **Monitoring:** Aria Suite | Prometheus | Grafana  
-- 🔒 **Security & Compliance:** Zero Trust | DR Strategy | ETSI Standards  
-- 🛠 **SDDC:** vSphere | VCF | NSX-T | AVI | VCD | TCA   
-- 💾 **Storage & DR:** Veeam | HCX | RackWare | Unity | VxRail  
+- **Cloud:** AWS | GCP | OCI | Hybrid Architectures  
+- **Kubernetes:** TKG | Helm | Docker | Telco CNF/VNF  
+- **IaC & Automation:** Terraform | YAML | JSON | PowerCLI | GitOps  
+- **Monitoring:** Aria Suite | Prometheus | Grafana  
+- **Security & Compliance:** Zero Trust | DR Strategy | ETSI Standards  
+- **SDDC:** vSphere | vCF | NSX-T | AVI | VCD | TCA  
+- **Storage & DR:** Veeam | HCX | RackWare | Unity | VxRail  
 
 ---
 
@@ -35,28 +39,17 @@
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=0100085&show_icons=true&theme=github_dark](https://github.com/EslamAmin)" />
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=EslamAmin&show_icons=true&rank_icon=github" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EslamAmin&layout=compact" height="165" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=EslamAmin" height="165" alt="GitHub Streak"/>
 </p>
 
 ---
 
-> _“Transforming complexity into scalable infrastructure.”_
-
-
-<!--
-**EslamAmin/EslamAmin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> *"Transforming complexity into scalable infrastructure"*
