@@ -1,18 +1,18 @@
 <h1 align="center">Hi there 👋</h1>
 <h2 align="center">Hi 👋, I'm Eslam Amin</h2>
 <p align="center">
-  Multi-Cloud Senior Consultant | Automation | VMware Architect
+  Multi-Cloud Solution Architect | GCP - OCI - AWS |Automation | VMware Architect
 </p>
 
 <p align="center">
   <!-- Profile views -->
   <img src="https://komarev.com/ghpvc/?username=EslamAmin&style=flat-square" alt="profile views" />
   <!-- Social badges -->
-  <a href="mailto:eslamdaedars9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/eslam-amin-7a0079bb/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:eslamabdelnaser9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/eslam-amin-6b18a8309/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
   <a href="https://cloudswifttech.wordpress.com/"><img src="https://img.shields.io/badge/Blog-21759B?logo=wordpress&logoColor=white" /></a>
-  <a href="https://medium.com/@EslamAmin"><img src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white" /></a>
-  <a href="https://www.credly.com/users/eslam-amin.6f847f18"><img src="https://img.shields.io/badge/Certifications-FFA500?logo=vercel&logoColor=white" /></a>
+  <a href="https://medium.com/@EslamAmin93"><img src="https://img.shields.io/badge/Medium-000000?logo=medium&logoColor=white" /></a>
+  <a href="https://www.credly.com/users/eslam-amin.6f847d18/edit#credly"><img src="https://img.shields.io/badge/Certifications-FFA500?logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
