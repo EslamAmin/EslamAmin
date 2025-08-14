@@ -19,20 +19,21 @@
 
 ## 🛠 Core Skills
 
-- **Cloud:** AWS | GCP | OCI | Hybrid Architectures  
-- **Kubernetes:** TKG | Helm | Docker | Telco CNF/VNF  
-- **IaC & Automation:** Terraform | YAML | JSON | PowerCLI | GitOps  
-- **Monitoring:** Aria Suite | Prometheus | Grafana  
-- **Security & Compliance:** Zero Trust | DR Strategy | ETSI Standards  
-- **SDDC:** vSphere | vCF | NSX-T | AVI | VCD | TCA  
-- **Storage & DR:** Veeam | HCX | RackWare | Unity | VxRail  
+- **Cloud:** AWS | GCP | OCI | VMware | Telco Cloud CNF/VNF | Microsoft | Hybrid Architectures  
+- **Kubernetes:** K8S | TKG | Helm | Docker 
+- **IaC & Automation:** Terraform | YAML | JSON | PowerCLI | Aria Automation  
+- **Monitoring:** Aria Suite | Prometheus | Grafana
+- **DR Strategy:** Runbook & Control Test |  Full Stack DR | Maintain Near-Zero RPO & RTO
+- **Security & Compliance:** Zero Trust | NSG | SL | Micro Segmentation  
+- **VMware SDDC:** vSphere | VCF | NSX-T | AVI | VCD | TCA | vSAN
+- **Migration & Storage:** Veeam | HCX | RackWare | Unity | VxRail | PowerScale | PowerEdge 
 
 ---
 
 ## 🏆 Recent Achievements
 
 - Delivered high-availability cloud platforms across KSA & EMEA  
-- Automated full DR lifecycle with Terraform across OCI & AWS  
+- Automated Failover DR via Full Stack DR  
 - Enabled scalable Kubernetes clusters for Telco & enterprise use cases  
 - Cut deployment time by 40% via intelligent automation  
 - Mentored teams through internal enablement & knowledge-sharing workshops  
