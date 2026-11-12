@@ -19,14 +19,14 @@
 
 ## 🛠 Core Skills
 
-- **Cloud:** AWS | GCP | OCI | VMware | Telco Cloud CNF/VNF | Microsoft | Hybrid Architectures  
+- **Multi-Cloud Soultions :** AWS | GCP | OCI | VMware | Telco Cloud CNF/VNF | Microsoft | Hybrid Architectures  
 - **Kubernetes:** K8S | TKG | Helm | Docker 
 - **IaC & Automation:** Terraform | YAML | JSON | PowerCLI | Aria Automation  
 - **Monitoring:** Aria Suite | Prometheus | Grafana
-- **DR Strategy:** Runbook & Control Test |  Full Stack DR | Maintain Near-Zero RPO & RTO
-- **Security & Compliance:** Zero Trust | NSG | SL | Micro Segmentation  
-- **VMware SDDC:** vSphere | VCF | NSX-T | AVI | VCD | TCA | vSAN
-- **Migration & Storage:** Veeam | HCX | RackWare | Unity | VxRail | PowerScale | PowerEdge 
+- **BCDR Strategy:** Migration and DR Runbook & Control Test |  Full Stack DR | Maintain Near-Zero RPO & RTO
+- **Security & Compliance:** Zero Trust Approach | NSX-T Micro Segmentation Automation 
+- **VMware SDDC:** VCF | NSX-T | AVI | VCD | Tanzu | vSAN
+- **Storage and Backup:** Veeam | HCX | RackWare | Unity | VxRail | PowerScale | PowerEdge 
 
 ---
 
